@@ -1,1 +1,5 @@
-# bhanu_prakash-eog-react-assessment
+## Create React App Visualization
+
+This assessment was bespoke handcrafted for bhanu_prakash.
+
+Read more about this assessment [here](https://react.eogresources.com)
